@@ -1,0 +1,1 @@
+# NovaTech-Enterprise-SOC-Lab-com-Wazuh
