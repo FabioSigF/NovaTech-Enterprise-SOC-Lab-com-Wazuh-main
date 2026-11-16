@@ -329,7 +329,7 @@ Mais do que instalar ferramentas, a proposta é compreender como os diferentes c
 
 ## Autor
 
-**[Seu nome]** — Analista de Segurança da Informação | Blue Team
+**Fábio Signorini** — Analista de Segurança da Informação | Blue Team
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-perfil-0A66C2?logo=linkedin)](https://www.linkedin.com/in/fabio-signorini/)
 
